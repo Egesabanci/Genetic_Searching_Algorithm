@@ -2,7 +2,6 @@
 @author : Ege Sabancı
 """
 
-
 """
 STRUCTURE OF THE ALGORITHM
 
