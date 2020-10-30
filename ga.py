@@ -1,18 +1,4 @@
-
-# @author : Ege Sabancı
-
-"""
-ALGORITHM: (psuedo-code)
-
-STEP 1 - Create target vector
-STEP 2 - Create random starter population
-STEP 3 - Calculate fitness of the population
-STEP 4 - Get the best chromosome from population
-STEP 5 - Crossover the vectors
-STEP 6 - Mutate the population - probability = %1
-STEP 7 - If Target vector is in the population ---> break
-STEP 8 - If Target vector is not in the population ---> continue
-"""
+# Main Algorithm Implementation with GAM.py file
 
 import random
 from GAM import GA #genetic algorithm module from GAM.py
