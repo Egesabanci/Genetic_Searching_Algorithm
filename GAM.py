@@ -1,16 +1,4 @@
-"""
-@author : Ege Sabancı
-"""
-
-"""
-STRUCTURE OF THE ALGORITHM
-
--> CREATE RANDOM POP
--> FITNESS FUNCTION
--> CROSSOVER
--> MUTATION
--> SELECTION
-"""
+# Genetic Searching Algoritm Class
 import random
 
 class GA(object):
